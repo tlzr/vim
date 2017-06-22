@@ -19,3 +19,5 @@ nnoremap <F2> :set invpaste paste?<CR>
 set pastetoggle=<F2>
 set showmode
 set paste
+set expandtab
+set shiftwidth=4
